@@ -1,0 +1,12 @@
+[
+  "hl_range_pct",
+  "gk_avg_6h",
+  "gk_lag_6h",
+  "hour_cos",
+  "gk_avg_3h",
+  "gk_lag_1h",
+  "trade_intensity",
+  "log_return_3h",
+  "log_return_6h",
+  "atr_lag_3h"
+]
