@@ -1,0 +1,4 @@
+model,accuracy,precision,sensitivity,specificity,tnr,f1,roc_auc,tp,tn,fp,fn
+Majority Class Baseline,0.5034,0.5034,1.0,0.0,0.0,0.6697,0.5,5354,0,5281,0
+Logistic Regression (Scratch),0.5221,0.5251,0.531,0.5132,0.5132,0.528,0.5389,2843,2710,2571,2511
+Logistic Regression (sklearn),0.5247,0.5275,0.5347,0.5145,0.5145,0.5311,0.5386,2863,2717,2564,2491
