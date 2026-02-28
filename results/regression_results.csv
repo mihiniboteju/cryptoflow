@@ -1,0 +1,2 @@
+model,rmse,mae,r2,notes
+Persistence Baseline,0.00281,0.0016,0.1851,Naive baseline: y_hat(t+1) = gk_volatility(t). No training.
