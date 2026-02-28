@@ -1,0 +1,12 @@
+[
+  "close_position",
+  "return_lag_1h",
+  "log_return_1h",
+  "gk_avg_3h",
+  "log_return_3h",
+  "gk_lag_1h",
+  "hl_range_pct",
+  "trade_intensity",
+  "atr_lag_3h",
+  "log_return_6h"
+]
