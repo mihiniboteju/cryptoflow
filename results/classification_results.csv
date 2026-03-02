@@ -2,3 +2,5 @@ model,accuracy,precision,sensitivity,specificity,tnr,f1,roc_auc,tp,tn,fp,fn
 Majority Class Baseline,0.5034,0.5034,1.0,0.0,0.0,0.6697,0.5,5354,0,5281,0
 Logistic Regression (Scratch),0.5236,0.5265,0.5334,0.5137,0.5137,0.53,0.5388,2856,2713,2568,2498
 Logistic Regression (sklearn),0.5247,0.5275,0.5347,0.5145,0.5145,0.5311,0.5386,2863,2717,2564,2491
+Decision Tree (Scratch),0.5296,0.5327,0.5334,0.5257,0.5257,0.5331,0.5295,2856,2776,2505,2498
+Decision Tree sklearn (depth=3),0.5308,0.5305,0.5921,0.4687,0.4687,0.5596,0.5359,3170,2475,2806,2184
