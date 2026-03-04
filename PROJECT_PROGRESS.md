@@ -158,7 +158,8 @@ selected_features_classification.json   ← List of top 10 classification featur
 
 ---
 
-### Phase 5: Model Training & Evaluation
+### Phase 5: Model Tr
+aining & Evaluation
 **Planned Notebook**: `4_model_training.ipynb`  
 **Input**: `data/final_training_data_*_train/test.csv`, scalers from `models/`
 
