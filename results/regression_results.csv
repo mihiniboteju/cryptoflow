@@ -1,2 +1,7 @@
-model,rmse,mae,r2,notes
-Persistence Baseline,0.00281,0.0016,0.1851,Naive baseline: y_hat(t+1) = gk_volatility(t). No training.
+model,rmse,mae,r2,notes,mse,mape
+Persistence Baseline,0.00281,0.0016,0.1851,Naive baseline: y_hat(t+1) = gk_volatility(t). No training.,,
+Linear Normal (scratch),0.0024741,0.00161493,0.3683,,6.12e-06,56.9687
+Linear GD (scratch),0.00254509,0.00175385,0.3316,,6.48e-06,66.3923
+Linear sklearn,0.0024741,0.00161493,0.3683,,6.12e-06,56.9687
+"Lasso (scratch, a=5e-03)",0.00247405,0.00161484,0.3683,,6.12e-06,56.9642
+"Lasso (sklearn, a=5e-03)",0.00382842,0.00319499,-0.5125,,1.466e-05,153.0412
